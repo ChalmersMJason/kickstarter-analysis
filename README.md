@@ -11,8 +11,12 @@ The purpose of this analysis is to reveal campaign insight and inform on results
 ### Analysis of Outcomes Based on Launch Date
 [See Excel file here & overview of insights below](https://github.com/ChalmersMJason/kickstarter-analysis/blob/main/Kickstarter_Challenge.zip)
 
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/85259984/128575125-6392fc8e-e75f-4b1a-8c76-858f8eda474b.png)
+
 ### Analysis of Outcomes Based on Goals
 [See Excel file here & overview of insights below](https://github.com/ChalmersMJason/kickstarter-analysis/blob/main/Kickstarter_Challenge.zip)
+
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/85259984/128575093-b9fb0b32-a283-4105-ab57-3f25d8907941.png)
 
 ### Challenges and Difficulties Encountered
 The challenges of this analysis included finding the relative data in the dataset (mainly focusing on 'plays'), determining what percent of campaigns where funded, spliting out the 'Category and Subcategory' column to two columns, and converting columns with dates into usable formatting.
