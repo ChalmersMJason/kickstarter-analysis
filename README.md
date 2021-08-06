@@ -9,9 +9,10 @@ The purpose of this analysis is to reveal campaign insight and inform on results
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-[Excel of analysis](https://github.com/user/repo/blob/branch/other_file.md)
+[See Excel file here & overview of insights below](https://github.com/ChalmersMJason/kickstarter-analysis/blob/main/Kickstarter_Challenge.zip)
 
 ### Analysis of Outcomes Based on Goals
+[See Excel file here & overview of insights below](https://github.com/ChalmersMJason/kickstarter-analysis/blob/main/Kickstarter_Challenge.zip)
 
 ### Challenges and Difficulties Encountered
 
