@@ -15,6 +15,7 @@ The purpose of this analysis is to reveal campaign insight and inform on results
 [See Excel file here & overview of insights below](https://github.com/ChalmersMJason/kickstarter-analysis/blob/main/Kickstarter_Challenge.zip)
 
 ### Challenges and Difficulties Encountered
+The challenges of this analysis included finding the relative data in the dataset (mainly focusing on 'plays'), determining what percent of campaigns where funded, spliting out the 'Category and Subcategory' column to two columns, and converting columns with dates into usable formatting.
 
 ## Results
 
